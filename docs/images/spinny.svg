@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="spinny" viewBox="0 0 24 24">
+    <ellipse cx="12" cy="12" rx="9" ry="12"/>
+    <ellipse fill="white" cx="12" cy="12" rx="8" ry="8"/>
+  </symbol>
+</svg>

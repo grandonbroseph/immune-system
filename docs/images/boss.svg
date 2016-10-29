@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <symbol id="boss" viewBox="0 0 24 24">
+    <path d="M0 16 l2 1 l7 -1 l1 -2 h4 l1 2 l7 1 l2 -1 l-1 4 l-4 1 h-4 l-2 3 h-2 l-2 -3 h-4 l-4 -1z"/>
+    <path fill="orange" d="M12 8 l1 6 h-2z"/>
+    <path fill="black" d="M11 16 h2 l1 3 l-1 1 h-2 l-1 -1z"/>
+    <path fill="white" d="M12 17 l1 3 l-1 -2z"/>
+  </symbol>
+</svg>
